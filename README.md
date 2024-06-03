@@ -15,7 +15,7 @@ Dependencies:
 
 ## API Reference
 
-#### Register user
+#### Login user
 
 ```http
   POST /api/v1/user/login
@@ -27,7 +27,7 @@ Dependencies:
 | `password` | `string` | **Required**. Your password |
 
 
-#### Get item
+#### Register user
 
 ```http
   POST /api/v1/user/register
